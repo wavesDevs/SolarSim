@@ -26,4 +26,4 @@ A Python based simulation of the solar system.
 ## Screenshots
 
 ### Simulation
-<img src = "https://imgur.com/F4LHvHA.gif">
+<img src = "https://imgur.com/a/F4LHvHA.gif">
