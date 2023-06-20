@@ -66,7 +66,7 @@ while not done:
             pos = data["obj"].at(t).observe(planets["sun"]).apparent().position.au
 
         #use position data as x and y coordinates
-        x = int(pos[0] * (scaling_factor) + screen.get_width() / 2)
+        x = int(pos[0] * (scaling_factor * 2) + screen.get_width() / 2)
         y = int(-pos[1] * scaling_factor + screen.get_height() / 2)
 
         #import radius information
