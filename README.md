@@ -22,6 +22,7 @@ A Python based simulation of the solar system.
 - add moons and asteroid belt
 - implement robust 3D visualization
 - add zoom in/out, rotate, and drag functionality
+- add select functionality which displays information about the planet upon clicking (ideally sidebar/legend)
 
 ## Screenshots
 
